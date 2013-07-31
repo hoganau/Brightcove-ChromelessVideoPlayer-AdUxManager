@@ -1,0 +1,4 @@
+# Ignore build folders
+bin-debug/
+html-template/
+.DS_Store
